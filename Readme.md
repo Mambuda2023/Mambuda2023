@@ -89,6 +89,3 @@
     </ul>
 </article>
 
-<h2>Статистика</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MazmanyanYura=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
