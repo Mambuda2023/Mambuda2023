@@ -13,7 +13,7 @@
         justify-content:center;
         margin-bottom:50px:
         ">
-    Я, HTML верстальщик
+    Я, Front-End разработчик!
 </p>
 
 <h2 style="
