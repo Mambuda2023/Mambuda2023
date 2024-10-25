@@ -25,7 +25,6 @@
 </h2>
 <article>
 <ul  style="display: flex; 
-            justify-content:center;
             gap: 10px;
             flex-wrap:wrap;
             align-items: center;
