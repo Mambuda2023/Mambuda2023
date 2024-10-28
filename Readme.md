@@ -56,6 +56,9 @@
     <li>
         <img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack"/>
     </li>
+     <li>
+        <img src="https://img.shields.io/badge/ReduxToolkit-black?style=for-the-badge&logo=redux/toolkit"/>
+    </li>
 
 </ul>
 </article>
