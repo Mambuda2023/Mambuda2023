@@ -86,7 +86,7 @@
             </a>
         </li>
          <li>
-            <a href="mailto:mazmanya@mail.ru">
+            <a href="mailto:mazmanyan2018@list.ru">
                 <img src="https://img.shields.io/badge/mail-black?style=for-the-badge&logo=mail.ru"/>
             </a>
         </li>
