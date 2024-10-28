@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/redux/toolkit-black?style=for-the-badge&logo=redux/toolkit"/>
     </li>
     <li>
-        <img src="https://img.shields.io/badge/redux/docker-black?style=for-the-badge&logo=docker"/>
+        <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker"/>
     </li>
 
 </ul>
