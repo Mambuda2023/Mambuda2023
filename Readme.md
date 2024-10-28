@@ -29,7 +29,11 @@
             flex-wrap:wrap;
             align-items: center;
             list-style:none">
-    <li>    
+    <li style="display: flex; 
+               gap: 10px;
+               flex-wrap:wrap;
+               align-items: center;
+               list-style:none">    
         <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML"/>
     </li>
     <li>
