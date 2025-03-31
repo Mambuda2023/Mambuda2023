@@ -16,14 +16,15 @@
     Я, Front-End разработчик!
 </p>
 
-<h2 style="
+
+<article>
+        <h2 style="
         display: flex; 
         justify-content:center;
         margin-bottom:30px
             ">
             Стэк и технологии
-</h2>
-<article>
+        </h2>
 <ul  style="display: flex; 
             gap: 10px;
             flex-wrap: wrap;
@@ -73,12 +74,14 @@
     </li>
 </ul>
 </article>
-<h2 style="
+
+<article>
+        <h2 style="
         display: flex; 
         justify-content:center;
         margin-bottom:30px
-            "> Социальные сети</h2>
-<article>
+            ">Социальные сети
+        </h2>
     <ul style="display: flex; 
             justify-content:center;
             gap: 10px;
