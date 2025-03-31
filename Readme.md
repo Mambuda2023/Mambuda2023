@@ -53,6 +53,9 @@
     <li>
         <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react"/>
     </li>
+    <li>
+        <img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs"/>
+     </li>
      <li>
         <img src="https://img.shields.io/badge/redux/toolkit-black?style=for-the-badge&logo=redux/toolkit"/>
     </li>
@@ -63,6 +66,9 @@
         <img src="https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook"/>
     </li>
          <li>
+        <img src="https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest"/>
+    </li>
+    <li>
         <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind"/>
     </li>
 </ul>
