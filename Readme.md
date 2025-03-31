@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs"/>
      </li>
      <li>
-        <img src="https://img.shields.io/badge/redux/toolkit-black?style=for-the-badge&logo=redux/toolkit"/>
+        <img src="https://img.shields.io/badge/reduxjs/toolkit-black?style=for-the-badge&logo=reduxjs/toolkit"/>
     </li>
     <li>
         <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker"/>
