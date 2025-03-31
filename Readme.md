@@ -30,19 +30,13 @@
             align-items: center;
             list-style:none">
     <li>    
-        <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=HTML"/>
+        <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML"/>
     </li>
     <li>
         <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3"/>      
     </li>
     <li>
         <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass"/>
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jquery"/>
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap"/>
     </li>
     <li>
         <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/>      
