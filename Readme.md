@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react"/>
     </li>
     <li>
-        <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextjs"/>
+        <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js"/>
      </li>
      <li>
         <img src="https://img.shields.io/badge/reduxjs/toolkit-black?style=for-the-badge&logo=reduxjs/toolkit"/>
