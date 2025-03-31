@@ -26,9 +26,9 @@
 <article>
 <ul  style="display: flex; 
             gap: 10px;
-            flex-wrap:wrap;
+            flex-wrap: wrap;
             align-items: center;
-            list-style:none">
+            list-style: none">
     <li>    
         <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML"/>
     </li>
