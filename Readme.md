@@ -65,7 +65,12 @@
     <li>
         <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker"/>
     </li>
-
+    <li>
+        <img src="https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook"/>
+    </li>
+         <li>
+        <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind"/>
+    </li>
 </ul>
 </article>
 <h2 style="
